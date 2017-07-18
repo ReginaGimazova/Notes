@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="enter_title"></string>
+    <string name="enter_content"></string>
+    <string name="title_geometry">Аналитическая геометрия</string>
+    <string name="title_table">Таблица</string>
+    <string name="title_notes">Заметки</string>
+    <string name="title_chat">Чат</string>
+    <string name="action_settings"></string>
+    <string name="title_activity_note_editor"></string>
+    <string name="action_save"></string>
+    <string name="action_delete"></string>
+</resources>
